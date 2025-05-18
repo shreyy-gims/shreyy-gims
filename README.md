@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Shreyansh Arpit Ward<br>👯 student of data science<br>🤝 intrested in front-end and uav design<br>🌱 I’m currently learning<br>💬 imma beginner in all this<br>⚡ i'm a content creator too
+🔭 I'm Shreyansh Arpit Ward<br>👯 student of data science<br>🤝 intrested in front-end and ui/ux design<br>🌱 I’m currently learning<br>💬 imma beginner in all this<br>⚡ i'm a content creator too
 
 
 ## 🌐 Socials:
